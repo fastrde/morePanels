@@ -1,3 +1,5 @@
+OUTDATED - NOT MAINTAINED - (I think cinnamon now suports more panels)
+
 morePanels
 ==========
 
